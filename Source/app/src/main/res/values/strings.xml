@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VolumeControl</string>
+    <string name="mute">⊘</string>
+    <string name="unmute">◄)</string>
+    <string name="volume_control">音量控制</string>
+    <string name="open_volume_control">開啟音量控制</string>
+    <string name="claimPermission">本程式音量控制功能必須開啟[零打擾]權限</string>
+    <string name="claimPermissionAgain">再次確認,本程式音量控制功能必須開啟[零打擾]權限</string>
+    <string name="up_volume">▲</string>
+    <string name="down_volume">▼</string>
+    <string name="enable">啟用</string>
+    <string name="save_setting">儲存設定</string>
+    <string name="setting_saved">設定已儲存</string>
+    <string name="detect_volume">偵測到音量</string>
+    <string name="ask_mute">是否保持靜音?</string>
+    <string name="already_unmute">靜音已解除</string>
+    <string name="still_mute">保持靜音</string>
+    <string name="confirm">確定</string>
+    <string name="cancel">取消</string>
+    <string name="please_input_one_or_minus_one">請輸入1或-1</string>
+    <string name="show_notification_bar_when_detect_sound">播放音效時顯示工具列</string>
+</resources>
